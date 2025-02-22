@@ -1,10 +1,13 @@
 # Auction App
 
 ## DASHBOARD
-![Image Description](Dashboard.png)
+![Image Description](newdash.png)
 
 ## Bidding History
 ![Image Description](history.png)
+
+## My Auctions
+![Image Description](myauctions.png)
 
 ## Post new auction
 ![Image Description](create.png)
