@@ -6,3 +6,6 @@
 ## Bidding History
 ![Image Description](history.png)
 
+## Post new auction
+![Image Description](create.png)
+
